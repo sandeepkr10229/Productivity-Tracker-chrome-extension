@@ -1,0 +1,37 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  padding: 10px;
+  width: 300px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 5px;
+  text-align: center;
+}
+
+th {
+  background-color: #f3f3f3;
+}
+
+canvas {
+  margin: 10px auto;
+  display: block;
+}
+
+button#clearData {
+  margin-top: 10px;
+  background-color: #ff4d4d;
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
